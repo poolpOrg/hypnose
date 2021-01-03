@@ -24,45 +24,44 @@ il est nécessaire de raviver _sous hypnose_ ses souvenirs de la première appar
 
 ## Causalité
 
-Le évènements externes déterminent la pathologie d'hystérie bien plus qu'on ne le pense:
+Les évènements externes déterminent la pathologie d'hystérie bien plus qu'on ne le pense.
 
-Dans le cas d'une hystérie traumatique, de manière évidente ce qui provoque les symptôme est l'accident.
+Dans le cas d'une hystérie traumatique, c'est de manière évidente l'accident qui provoque les symptômes.
 
 Le lien de causalité est également évident dans les attaques hystériques où le sujet hallucine la même situation que lors de la première attaque.
 
 La situation est plus obscure dans le cas d’autres phénomènes.
 
-Plusieurs symptômes variés et spontanées peuvent avoir pour cause la meme lien de causalité.
+Plusieurs symptômes variés et spontanées peuvent avoir pour cause le meme lien de causalité.
 
 
 ## Symptômes
 
-Nevroses, anesthésies, contractions, paralysies, attaques hystériques, convulsions épileptiques, tics, troubles obsessionnels compulsifs (TOCs), nausées, vomissements chroniques, anorexies, troubles de la vision, hallucinations visuelles récurrentes, etc...
+Nevralgies, anesthésies, contractions, paralysies, attaques hystériques, convulsions épileptiques, tics, troubles obsessionnels compulsifs (TOCs), nausées, vomissements chroniques, anorexies, troubles de la vision, hallucinations visuelles récurrentes, etc...
 
-Il y a une disproportion entre le nombre d'années ou le sujet endure le symptôme hystérique et l'occurence unique qui l a provoqué,
+Il y a une disproportion entre le nombre d'années où le sujet endure le symptôme hystérique et l'occurence unique qui l'a provoqué,
 disproportion que l'on retrouve invariablement dans les névroses traumatiques.
 
 Fréquemment,
 un évènement dans l'enfance mets en place un symptôme plus ou mois important qui persiste dans les années suivantes.
 
 Souvent,
-le lien est si clair qu'il devient évident comment l'évènement a produit ce phénomène plutôt qu'un autre,
-dans ce cas le symptôme est _déterminé_ par la cause.
+le lien est si clair qu'il devient évident pourquoi il a produit un phénomène plutôt qu'un autre,
+dans ce cas le symptôme est _déterminé_ par la cause:
 
     Une émotion difficile survenant lors d'un repas est refoulé sur le moment,
     puis produit nausées et vomissements persistants pendant des mois sous la forme de vomissements hystériques
 
 
-Le lien est des fois moins clair,
+Des fois le lien est moins clair,
 une relation que l'on pourrai qualifier de "symbolique" entre la cause et le phénomène,
-de l'ordre de celle que l'on pourrait former dasn les rêves:
+de l'ordre de celle que l'on pourrait former dans les rêves:
 
     Un vomissement en raison d'un sentiment de dégout moral.
 
 
 Dans certains cas,
 il n'est pas possible de comprendre à première vue de quelle manière le lien est établie.
-
 
 
 ## Causes opérantes
@@ -78,47 +77,44 @@ N'importe quelle expérience faisant appel à des affects difficiles (anxiété,
 Le fait qu'elle joue ce rôle dépends de la susceptibilité et de la subjectivité des individus ainsi que d'autres conditions que nous retrouverons plus loin.
 
 
-==
-
-
 ## Hystérie commune
 
 Dans le cas d'hystérie commune,
-il est fréquent qu'en lieu d'un simple trauma,
-on trouve un nombre de traumas partiels formant un groupe de causes provocatrices du symptôme.
+il est fréquent qu'au lieu d'un simple trauma on trouve un nombre de traumas partiels formant un groupe de causes provocatrices du symptôme.
 
 Dans ce cas,
-elles n'ont pu provoquer l'effet traumatique que par leur somme et sont groupées car elles sont composantes liées d'une situation.
+ils n'ont pu provoquer l'effet traumatique que par leur somme et sont groupées car ils sont composants liées d'une situation.
 
 Dasn certains cas,
-une circonstance triviale se combine avec d'autres évènemnts ou survient à un moment de susceptibilité particulier et atteint ce status de trauma,
+une circonstance triviale se combine avec d'autres évènements ou survient à un moment de susceptibilité particulier et atteint ce status de trauma,
 qu'elle n'aurait pas possédée autrement, 
 puis persiste.
 
 
 ## Relation entre le trauma psychique et le phénomène hystérique
 
-La relation causale entre le trauma psychique et le phénomène hystérique ne doit pas être pensé comme un "agent provocateur" libérant un symptôme qui entrainerait une existence indépendante.
+La relation causale entre le trauma psychique et le phénomène hystérique ne doit pas être pensé comme un "agent provocateur",
+libérant un symptôme qui entrainerait une existence indépendante.
 
 Le trauma psychique (mémoire du trauma) agit comme un corps étranger à l'oeuvre:
 
-Chaque symptôme hystérique individuel disparait immédiatement et définitivement lorsque l'on ramène à la mémoire l'évènement par lequel il a été provoqué et que l'on ravive l'affect qui l'accompagnait, que le patient décrit avec le plus de détail possible, en verbalisant cet affect.
+Chaque symptôme hystérique individuel disparait immédiatement et définitivement lorsque l'on ramène à la mémoire l'évènement par lequel il a été provoqué,
+et que l'on ravive l'affect qui l'accompagnait, que le patient décrit avec le plus de détail possible, en verbalisant cet affect.
 
 > each individual hysterical symptom immediately and permanently disappeared when we had succeeded in bringing clearly to light the memory of the event by which it was provoked and in arousing its accompanying affect, and when the patient had described that event in the greatest possible detail and had put the affect into words.
 
 
-Raviver le souvenir sans affect ne produit presque invariablement aucun résultat.
+Raviver le souvenir sans raviver l'affect ne produit presque invariablement aucun résultat.
 
 Le processus psychique qui a pris place à l'origine doit être répété de la manière la plus vivide possible,
-il doit être ramené au moment de sa naissance (l'affect, pas le sujet) et verbalisé.
+il doit être ramené au moment de sa naissance et verbalisé.
 
 Lorsque nous faisons face à des phénomènes incluant des stimuli (spasmes, névralgies, hallucinations, ...),
-ils doivent réapparaitre à nouveau avec toute leur intensité pour pouvoir disparaitre pour toujours.
+ils doivent réapparaitre à nouveau avec toute leur intensité afin de pouvoir disparaitre pour toujours.
 
 Les problèmes de fonction,
 paralysies et anesthésies,
 disparaissent de la même manière sans que leur intensification ne soit discernable.
-
 
 
 ## Suggestion
@@ -130,16 +126,13 @@ pas la verbalisation.
 Ce n’est pas le cas,
 la suggestion retire le symptôme mais le processus opérant continue à fonctionner d’une manière ou d’une autre pendant des années.
 
-    In Janet’s interesting study on mental automatism, there is an account of the cure of a hysterical girl by a method analogous to ours.
-
-
 
 ## Mécanisme d'oubli (fading)
 
 Il est extraordinaire qu'un évènement dont l'expérience a été faite il y a si longtemps puisse continuer à opérer de manière si intense:
 il ne semble pas être impacté par le mécanisme d'oubli auquel tous les souvenirs font face.
 
-Le fading d'une mémoire ou la perte de sona ffect dépends de plusieurs facteurs,
+Le fading d'une mémoire ou la perte de son affect dépends de plusieurs facteurs,
 mais le plus important est:
 
 Est-ce qu'il y a eu une réaction énergétique à l'évènement qui a provoqué l'affect.
@@ -161,8 +154,7 @@ En d’autres termes,
 parler est un réflexe adéquat lorsqu’il s’agit d’une lamentation ou plainte pour libérer un affect.
 S’il n’y a aucune réaction, en actes ou en mots, ou même en larmes, tout souvenir d’un évènement conserve son affect.
 
-
-L’abréaction n’est pas la seule méthode méthode:
+L’abréaction n’est pas la seule méthode:
 Un souvenir de trauma entre dans le jeu complexe des associations et des autres experiences qui peuvent le contredire et entrainer sa rectification par d’autres idées.
 
 Après un accident,
