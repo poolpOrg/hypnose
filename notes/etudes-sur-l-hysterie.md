@@ -1,19 +1,25 @@
 # WIP: notes sur les études sur l'hystérie de Freud & Breuer
 
-# Point de départ
+Ce document est ma prise de note sur les points importants de la modélisation de l'hystérie par Freud et Breuer.
 
-Observation de différentes formes et symptômes d'hystérie,
-et découverte de la cause qui a provoqué la première occurence,
-souvent plusieurs années auparavant.
+# Constat
+
+On observe différentes formes d'hystérie et différents symptômes hystériques,
+et lorsque l'on découvre la cause à l'origine de la première occurence,
+celle ci se situe souvent plusieurs années auparavant.
 
 Dans la grande majorité des cas,
-il n'est pas possible de trouver le point d'origine en interrogeant le patient _peu importe à quel point l'on creuse_:
+il n'est pas possible de trouver le point d'origine en interrogeant le patient,
+et ce _peu importe à quel point l'on creuse_:
 
-D'une part, il peut s'agir d'une expérience déplaisante dont il a honte ou dont il n'a pas nécessairement envie de parler;
+D'une part,
+il peut s'agir d'une expérience déplaisante, ou honteuse, dont il n'a pas envie de parler;
 
-D'autre part, il peut être incapable de s'en rappeler ou n'avoir aucune suspicion sur le lien de causalité entre l'évènement et le phénomène pathologique.
+D'autre part,
+il peut être incapable de s'en rappeler ou n'avoir aucune suspicion sur le lien de causalité entre l'évènement et le phénomène pathologique.
 
-En règle générale, il est nécessaire de raviver sous hypnose ses souvenirs de la fois où le symptôme a fait sa première apparition afin de pouvoir établir le lien de manière claire et convaincante.
+En règle générale,
+il est nécessaire de raviver _sous hypnose_ ses souvenirs de la première apparition du symptôme afin d'établir le lien de manière claire et convaincante.
 
 
 ## Causalité
@@ -203,8 +209,6 @@ il n’y a pas de connexion associative entre l’etat normal de conscience et l
 
 Les idées devenues pathologiques ont persisté avec fraicheur et force affective car leur ont été refusées le processus normal d’oubli au travers de l’abréaction et reproduction dans des états d’association désinhibée.
 
-
-====
 
 ## Séparation de conscience
 
